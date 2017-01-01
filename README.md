@@ -1,2 +1,4 @@
 # hello-world
-Just a first github repository
+My Fellow Developers, 
+
+May the code flow like water and be bug free.
